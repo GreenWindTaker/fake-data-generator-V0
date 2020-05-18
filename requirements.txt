@@ -1,0 +1,5 @@
+bs4==4.8.2
+requests==2.22.0
+pandas==1.0.1
+xlsxwriter==1.2.7
+tqdm==4.42.1
